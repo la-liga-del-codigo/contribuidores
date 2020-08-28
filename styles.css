@@ -1,3 +1,4 @@
+
 header {
   display: flex;
   flex-direction: column;
@@ -27,4 +28,18 @@ header > h1 {
 .collaborator > img {
   margin-bottom: 10px;
   border-radius: 15%;
+}
+.contribIconLink{
+  border-radius: 50%;
+}
+.contribIconLink > img{
+  width: 1.7rem;
+  /* position: relative; */
+  border-radius: 50%;
+  transition: 0.1s ease-in-out;
+}
+
+.contribIconLink:hover img{
+  transform: translate(0px,-5px);
+  box-shadow: 0px 20px 25px 2px #ccc;
 }
