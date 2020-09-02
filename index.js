@@ -53,6 +53,11 @@ const collaborators = [
     name: 'Mauro Hernández',
     role: 'Colaborador',
     photo_url: 'https://media-exp1.licdn.com/dms/image/C4D03AQHKL0NzJXtcRg/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=o3LGtk_io54s2XxnQ0zZ57afe-1Thn8IdP_PmzcaqcM'
+  },
+  {
+    name: 'Lewis Del Rosario',
+    role: 'Colaborador',
+    photo_url: 'https://media-exp1.licdn.com/dms/image/C5603AQGOmStkOe7C5g/profile-displayphoto-shrink_200_200/0?e=1604534400&v=beta&t=eu9wDanqhAnDj8qdq2NpwCCY6FhexHS7-u-L470excM'
   }
 ]
 
