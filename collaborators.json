@@ -2,26 +2,31 @@
   {
     "name": "Winner Crespo",
     "role": "Propietario",
+    "github_username": "wistcc",
     "photo_url": "https://media-exp1.licdn.com/dms/image/C4E03AQGBPcza7XsREQ/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=4xbvuWqc5YmeYmsEXTtfNg_f9S3hzIf31LH48l8sbxc"
   },
   {
     "name": "Tomás Veras",
     "role": "Propietario",
+    "github_username": "vetom",
     "photo_url": "https://media-exp1.licdn.com/dms/image/C5603AQEI2ZZ4dcn2cg/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=6tAxxoUXach6hw-hcRRMZ0xeebkk1Gf-pgFiZXEdYyM"
   },
   {
     "name": "Germán Popoteur",
     "role": "Propietario",
+    "github_username": "gpopoteur",
     "photo_url": "https://media-exp1.licdn.com/dms/image/C5603AQHUcFxBtfzqQA/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=F9JKLJtgkfy4Fnm4XNKftNLLsdSBO6SU-BAggABkDtg"
   },
   {
     "name": "Manuel Mejía",
     "role": "Propietario",
+    "github_username": "mejiamanuel57",
     "photo_url": "https://media-exp1.licdn.com/dms/image/C4E03AQFuanKZXUGDpw/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=Tgyu1azMy0pP4BjkTaTEq1IhEQdT5exvonj8XdNNbtg"
   },
   {
     "name": "Nazaret Ramírez",
     "role": "Colaborador",
+    "github_username": "nramirez",
     "photo_url": "https://media-exp1.licdn.com/dms/image/C4E03AQFQVzzxUEeW5w/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=XVSirKIqBfPjs84vlaWUnhBjHiHA0UJ30LRdQ-u0f6Y"
   },
   {
@@ -32,11 +37,19 @@
   {
     "name": "Mauro Hernández",
     "role": "Colaborador",
+    "github_username": "mau02ro",
     "photo_url": "https://media-exp1.licdn.com/dms/image/C4D03AQHKL0NzJXtcRg/profile-displayphoto-shrink_200_200/0?e=1603929600&v=beta&t=o3LGtk_io54s2XxnQ0zZ57afe-1Thn8IdP_PmzcaqcM"
+  },
+  {
+    "name": "Vladimir Reyes",
+    "role": "Colaborador",
+    "github_username": "VladimirRs015",
+    "photo_url": "https://avatars1.githubusercontent.com/u/44329406?s=200&v=4https://avatars1.githubusercontent.com/u/44329406?s=240&v=4"
   },
   {
     "name": "Lewis Del Rosario",
     "role": "Colaborador",
+    "github_username": "ldrs",
     "photo_url": "https://media-exp1.licdn.com/dms/image/C5603AQGOmStkOe7C5g/profile-displayphoto-shrink_200_200/0?e=1604534400&v=beta&t=eu9wDanqhAnDj8qdq2NpwCCY6FhexHS7-u-L470excM"
   }
 ]
